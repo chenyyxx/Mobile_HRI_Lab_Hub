@@ -572,8 +572,9 @@ You should be able to see both of your nodes connected through the topic.
 
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber 
-[This is the link](https://github.com/chenyyxx/Mobile_HRI_Lab_Hub/tree/main/Lab0)
+    [This is the link](https://github.com/chenyyxx/Mobile_HRI_Lab_Hub/tree/main/Lab0)
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+
     a. 
     b.
     c.
@@ -581,4 +582,4 @@ You should be able to see both of your nodes connected through the topic.
     e.
     
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
-    Everthing is pretty straight forward. The tutorial is great.
+- Everthing is pretty straight forward. The tutorial is great.
