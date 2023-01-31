@@ -571,15 +571,15 @@ You should be able to see both of your nodes connected through the topic.
 ## Deliverables
 
 
-1. Link to the folder of a ROS package that contains a publisher and a subscriber 
+1. Link to the folder of a ROS package that contains a publisher and a subscriber.   
     [This is the link](https://github.com/chenyyxx/Mobile_HRI_Lab_Hub/tree/main/Lab0)
-2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get. 
 
-    a. How do I change the size of the ROS graph? Still don't get it.
-    b. When creating a publisher, is the timer a required field? No.
-    c. What can the subscriber do with the data other than logging the received data? Can do whatever things I define in the function.
-    d. What are some other data types that the publisher can publish besides String? It could basically be any data types
-    e. What is the 10 parameter for inside the subscriber callback function? It is the `qos_profile`. Still not quite understand what does the `10` mean.
+    a. How do I change the size of the ROS graph? Still don't get it.  
+    b. When creating a publisher, is the timer a required field? No.  
+    c. What can the subscriber do with the data other than logging the received data? Can do whatever things I define in the function.  
+    d. What are some other data types that the publisher can publish besides String? It could basically be any data types.  
+    e. What is the 10 parameter for inside the subscriber callback function? It is the `qos_profile`. Still not quite understand what does the `10` mean.  
     
-3. Feedback on the bootcamp: What was easy and what was difficult to understand?
+3. Feedback on the bootcamp: What was easy and what was difficult to understand?  
     Everthing is pretty straight forward. The tutorial is great.
