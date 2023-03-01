@@ -11,9 +11,11 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 3. Make the Robot Move](Lab3/Readme.md)
 
-Lab 4. Make the Robot See
+[Lab 4. Make the Robot See](Lab4/Readme.md)
 
-Lab 5. Give the Robot Moves
+[Final Project Proposal](Final_Project_Proposal/Readme.md)
+
+[Lab 5. Give the Robot Moves](Lab5/Readme.md)
 
 Lab 6. Choreographing Movement
 
